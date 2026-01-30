@@ -1,0 +1,9 @@
+# Leo build output
+build/
+
+# Local env (keys, network)
+.env
+.env.local
+
+# Logs
+*.log

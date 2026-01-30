@@ -1,0 +1,8 @@
+{
+  "program": "arcanum_swap.aleo",
+  "version": "0.1.0",
+  "description": "Arcanum Wave 1 - Private token swap. Minimal Leo contract for private swaps.",
+  "license": "MIT",
+  "dependencies": null,
+  "dev_dependencies": null
+}
